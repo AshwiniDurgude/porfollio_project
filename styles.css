@@ -189,8 +189,8 @@ Navbar
 display: none;
 }
 .nav {
-height: 8rem;
-padding: 0rem;
+height: 7rem;
+padding: 1rem;
 display: grid;
 -webkit-box-align: center;
 align-items: center;
